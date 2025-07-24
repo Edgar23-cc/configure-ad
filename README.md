@@ -45,7 +45,7 @@ This tutorial outlines the implementation of on-premises Active Directory within
 <img src="https://i.imgur.com/tEkqu0k.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-  The image that shows powershell ise you can see that when paste the script that was provided and it will randomly create 10,000 employee but you can stop it when you feel you have enough users. Before you copy the script make sure you a made a new file or else it will show you like a normal powershell. The image of the ADUC 
+  The image that shows powershell ise you can see that when paste the script that was provided and it will randomly create 10,000 employee but you can stop it when you feel you have enough users. Before you copy the script make sure you a made a new file or else it will show you like a normal powershell. The image of the ADUC you can create a new OU file just like how I have it above. Another use for this app is inserting such as admins, employee and clients also you can insert people's roles on each file that can make  things a lot easier to access.
 </p>
 <br />
 
