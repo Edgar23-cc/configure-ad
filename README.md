@@ -53,6 +53,6 @@ This tutorial outlines the implementation of on-premises Active Directory within
 <img src="https://i.imgur.com/6GcLnVk.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-type here
+This image show the confirmation of the group policy that has been updated. The way to update the group policy follow the step 4 instructions.
 </p>
 <br />
